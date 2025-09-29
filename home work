@@ -3,12 +3,30 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <n1>
-        hello world
-    </n1>
-    <img src="https://i.pinimg.com/736x/d2/bf/9a/d2bf9a5d2a675bd525ea9cb94358d251.jpg"
+    <title>first progekt</title>
+    <link rel="stylessheet" href="/css/main.css"
+      <body>
+         <header calass="container">
+           <span class="logo">logo</span>
+          <nav>
+            <ul>
+            <li class="active"><a href="#">home</a></li>
+            <li> <a href="#">becouse</a></li>
+            <li> <a href="#">about</a></li>
+            <li> <a href="#">exit</a></li>
+            <li class="btn"><a herf="#">call</a></li>
+                    </ul>
+    </nav>
+    </header>
+    <div class="hero container">
+        <div class="hero-info
+        <h2>flowers</h2>
+        <h1>work it money</h1>
+        <p>flowers it life</P>
+            <button class="btn">get more info</div>
+                <img src="https://i.pinimg.com/736x/d2/bf/9a/d2bf9a5d2a675bd525ea9cb94358d251.jpg">
+    </div>
+
+                  <body text="black" bgcolor="orange"
 </body>
 </html>
